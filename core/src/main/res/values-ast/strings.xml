@@ -225,4 +225,5 @@
   <string name="books_count">%d llibros</string>
   <string name="status">Estáu</string>
   <string name="pref_clear_all_notes_title">Llimpiar toles notes</string>
+  <string name="no_bookmarks">Nun hai marcadores</string>
 </resources>

@@ -240,4 +240,5 @@
   <string name="error_during_transfer">Nastala chyba v průběhu přenosu</string>
   <string name="get_content_from_nearby_device">Získet obsah ze zařízení v blízkosti</string>
   <string name="pref_clear_all_notes_title" fuzzy="true">Vyčistit všechny poznámky</string>
+  <string name="no_bookmarks">Žádné záložky</string>
 </resources>

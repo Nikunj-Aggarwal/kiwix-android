@@ -253,4 +253,7 @@
   <string name="tag_text_only">Endast text</string>
   <string name="tag_short_text">Kort text</string>
   <string name="go_to_permissions">Gå till inställningar</string>
+  <string name="no_results">Inga resultat</string>
+  <string name="no_bookmarks">Inga bokmärken</string>
+  <string name="no_history">Ingen historik</string>
 </resources>

@@ -105,4 +105,5 @@
   <string name="expand">ချဲ့ရန်</string>
   <string name="history">ရာဇဝင်</string>
   <string name="failed_file_already_exists">ဖိုင် ရှိနှင့်ပြီးသားဖြစ်သည်</string>
+  <string name="no_bookmarks">စာညှပ်မှတ်ထားခြင်း မရှိ!</string>
 </resources>
